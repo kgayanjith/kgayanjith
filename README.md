@@ -58,16 +58,16 @@
 <!-- GitHub Stats -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalindugayanjith&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalindugayanjith&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kgayanjith&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgayanjith&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF" height="170"/>
 </p>
 
 ---
 
 <!-- Streak & Trophies -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kalindugayanjith&theme=react&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=kalindugayanjith&theme=algolia&no-bg=true&no-frame=true&row=1&column=5" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kgayanjith&theme=react&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kgayanjith&theme=algolia&no-bg=true&no-frame=true&row=1&column=5" width="48%"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@
 <!-- Activity Graph -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalindugayanjith&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kgayanjith&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -83,11 +83,11 @@
 <!-- Featured Projects -->
 
 <p align="center">
-  <a href="https://github.com/kalindugayanjith/kalindugayanjith">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalindugayanjith&repo=kalindugayanjith&theme=react&bg_color=0D1117&title_color=00F5FF&hide_border=true" />
+  <a href="https://github.com/kgayanjith/kalindugayanjith">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kgayanjith&repo=kalindugayanjith&theme=react&bg_color=0D1117&title_color=00F5FF&hide_border=true" />
   </a>
-  <a href="https://github.com/kalindugayanjith/chat_bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalindugayanjith&repo=chat_bot&theme=react&bg_color=0D1117&title_color=00F5FF&hide_border=true" />
+  <a href="https://github.com/kgayanjith/chat_bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kgayanjith&repo=chat_bot&theme=react&bg_color=0D1117&title_color=00F5FF&hide_border=true" />
   </a>
 </p>
 
@@ -105,8 +105,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/kalindugayanjith?label=Followers&style=social" alt="GitHub Badge" />
-  <img src="https://komarev.com/ghpvc/?username=kalindugayanjith&color=00F5FF&style=flat-square&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/kgayanjith?label=Followers&style=social" alt="GitHub Badge" />
+  <img src="https://komarev.com/ghpvc/?username=kgayanjith&color=00F5FF&style=flat-square&label=Profile+Views"/>
 </p>
 
 <p align="center">✨ “Code. Create. Repeat.” ✨</p>
