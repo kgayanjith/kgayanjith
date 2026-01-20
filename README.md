@@ -83,8 +83,8 @@
 <!-- Featured Projects -->
 
 <p align="center">
-  <a href="https://github.com/kgayanjith/kalindugayanjith">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kgayanjith&repo=kalindugayanjith&theme=react&bg_color=0D1117&title_color=00F5FF&hide_border=true" />
+  <a href="https://github.com/kgayanjith/pandas-assignment-solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kgayanjith&repo=pandas-assignment-solutions&theme=react&bg_color=0D1117&title_color=00F5FF&hide_border=true" />
   </a>
   <a href="https://github.com/kgayanjith/chat_bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kgayanjith&repo=chat_bot&theme=react&bg_color=0D1117&title_color=00F5FF&hide_border=true" />
