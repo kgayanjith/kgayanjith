@@ -7,13 +7,6 @@
   <img src="https://img.shields.io/badge/AI%20Integration-0D6EFD?style=for-the-badge"/>
 </p>
 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Dark Banner"/>
-</p>
-
----
-
 <!-- About Me -->
 <div align="center">
 
