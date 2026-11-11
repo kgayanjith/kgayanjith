@@ -34,7 +34,7 @@
   <a href="mailto:kalindugayanjith@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
- <a href="https://kalindugayanjith.vercel.app/" target="_blank">
+ <a href="https://kalindugayanjith.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=appveyor&logoColor=00F5FF"/>
 </a>
 </p>
